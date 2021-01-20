@@ -1,1 +1,2 @@
-# syncronise_server
+# AviSOFT | Script to syncronise states between various applications
+
